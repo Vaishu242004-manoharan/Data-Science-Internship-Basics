@@ -1,0 +1,11 @@
+For this analysis, we are using the Iris dataset, which contains measurements of iris flowers from three different species. The dataset includes both numerical and categorical variables.
+Selected Features:
+Species – Categorical: This feature represents the type of Iris flower (setosa, versicolor, or virginica).
+
+Sepal Length (sepal_length) – Numerical: Length of the sepal in centimeters.
+
+Sepal Width (sepal_width) – Numerical: Width of the sepal in centimeters.
+
+Petal Length (petal_length) – Numerical: Length of the petal in centimeters.
+
+These features were selected to provide a mix of categorical and numerical data, allowing for meaningful visualizations that show both distribution and relationships between variables.
